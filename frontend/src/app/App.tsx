@@ -95,7 +95,7 @@ const [selectedImageUrl, setSelectedImageUrl] = useState<string | null>(null);
             <div className="bg-green-600 p-3 rounded-2xl shadow-lg">
               <Leaf className="w-10 h-10 text-white" />
             </div>
-            <h1 className="text-green-800">PlantID AI</h1>
+            <h1 className="text-green-800">Chlorobiota</h1>
           </div>
           <p className="text-gray-600 max-w-xl mx-auto">
             Identify plants instantly from photos
